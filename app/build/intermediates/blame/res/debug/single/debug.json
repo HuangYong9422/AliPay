@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\androidWorkSpace\\android1804\\WS_APP_PAY_SDK_BASE_2.0\\WS_APP_PAY_SDK_BASE_2.0\\Demo\\AndroidDemo_2.0(SDK_15.5.3)\\AndroidDemo_2.0(SDK_15.5.3)\\alipay_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_msp_demo_title_bg.png.flat",
+        "source": "E:\\androidWorkSpace\\android1804\\WS_APP_PAY_SDK_BASE_2.0\\WS_APP_PAY_SDK_BASE_2.0\\Demo\\AndroidDemo_2.0(SDK_15.5.3)\\AndroidDemo_2.0(SDK_15.5.3)\\alipay_demo\\app\\src\\main\\res\\drawable-hdpi\\msp_demo_title_bg.png"
+    },
+    {
+        "merged": "E:\\androidWorkSpace\\android1804\\WS_APP_PAY_SDK_BASE_2.0\\WS_APP_PAY_SDK_BASE_2.0\\Demo\\AndroidDemo_2.0(SDK_15.5.3)\\AndroidDemo_2.0(SDK_15.5.3)\\alipay_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_msp_icon.png.flat",
+        "source": "E:\\androidWorkSpace\\android1804\\WS_APP_PAY_SDK_BASE_2.0\\WS_APP_PAY_SDK_BASE_2.0\\Demo\\AndroidDemo_2.0(SDK_15.5.3)\\AndroidDemo_2.0(SDK_15.5.3)\\alipay_demo\\app\\src\\main\\res\\drawable-hdpi\\msp_icon.png"
+    },
+    {
+        "merged": "E:\\androidWorkSpace\\android1804\\WS_APP_PAY_SDK_BASE_2.0\\WS_APP_PAY_SDK_BASE_2.0\\Demo\\AndroidDemo_2.0(SDK_15.5.3)\\AndroidDemo_2.0(SDK_15.5.3)\\alipay_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_msp_demo_title.png.flat",
+        "source": "E:\\androidWorkSpace\\android1804\\WS_APP_PAY_SDK_BASE_2.0\\WS_APP_PAY_SDK_BASE_2.0\\Demo\\AndroidDemo_2.0(SDK_15.5.3)\\AndroidDemo_2.0(SDK_15.5.3)\\alipay_demo\\app\\src\\main\\res\\drawable-hdpi\\msp_demo_title.png"
+    },
+    {
+        "merged": "E:\\androidWorkSpace\\android1804\\WS_APP_PAY_SDK_BASE_2.0\\WS_APP_PAY_SDK_BASE_2.0\\Demo\\AndroidDemo_2.0(SDK_15.5.3)\\AndroidDemo_2.0(SDK_15.5.3)\\alipay_demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_pay_main.xml.flat",
+        "source": "E:\\androidWorkSpace\\android1804\\WS_APP_PAY_SDK_BASE_2.0\\WS_APP_PAY_SDK_BASE_2.0\\Demo\\AndroidDemo_2.0(SDK_15.5.3)\\AndroidDemo_2.0(SDK_15.5.3)\\alipay_demo\\app\\src\\main\\res\\layout\\pay_main.xml"
+    },
+    {
+        "merged": "E:\\androidWorkSpace\\android1804\\WS_APP_PAY_SDK_BASE_2.0\\WS_APP_PAY_SDK_BASE_2.0\\Demo\\AndroidDemo_2.0(SDK_15.5.3)\\AndroidDemo_2.0(SDK_15.5.3)\\alipay_demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_pay_external.xml.flat",
+        "source": "E:\\androidWorkSpace\\android1804\\WS_APP_PAY_SDK_BASE_2.0\\WS_APP_PAY_SDK_BASE_2.0\\Demo\\AndroidDemo_2.0(SDK_15.5.3)\\AndroidDemo_2.0(SDK_15.5.3)\\alipay_demo\\app\\src\\main\\res\\layout\\pay_external.xml"
+    }
+]

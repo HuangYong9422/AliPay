@@ -1,0 +1,4 @@
+#Fri Apr 20 14:58:21 CST 2018
+base.0=E\:\\androidWorkSpace\\android1804\\WS_APP_PAY_SDK_BASE_2.0\\WS_APP_PAY_SDK_BASE_2.0\\Demo\\AndroidDemo_2.0(SDK_15.5.3)\\AndroidDemo_2.0(SDK_15.5.3)\\alipay_demo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

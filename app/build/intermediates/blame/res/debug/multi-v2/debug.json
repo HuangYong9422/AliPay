@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\androidWorkSpace\\android1804\\WS_APP_PAY_SDK_BASE_2.0\\WS_APP_PAY_SDK_BASE_2.0\\Demo\\AndroidDemo_2.0(SDK_15.5.3)\\AndroidDemo_2.0(SDK_15.5.3)\\alipay_demo\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\androidWorkSpace\\android1804\\WS_APP_PAY_SDK_BASE_2.0\\WS_APP_PAY_SDK_BASE_2.0\\Demo\\AndroidDemo_2.0(SDK_15.5.3)\\AndroidDemo_2.0(SDK_15.5.3)\\alipay_demo\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "46",
+                        "endOffsets": "98"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    }
+                }
+            ]
+        }
+    ]
+}
